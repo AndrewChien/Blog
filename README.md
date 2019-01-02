@@ -33,7 +33,7 @@
 
 ### PyQt开发
 
-
+---
 ## .NET
 
 &emsp;&emsp;emm，我是做C#起步的，虽然大学入门语言是c、c++，大学也学过java，但第一份工作用的是c#。怎么说呢？两个字，感激。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。
@@ -62,6 +62,7 @@
 ### 其他demo
 * [C#经典异步：AsyncAwait](https://github.com/AndrewChien/SharpAsyncAwaitDemo)
 
+---
 ## C++
 
 &emsp;&emsp;c++，传说中高级语言里面最难的。它难不是难在语法，而是难在想熟练掌握它，你必须首先对你的操作系统要相当的熟悉！在windows大行其道的时候，人们学MFC真的是苦！第一，windows不是开源的，遇到了一些疑难杂症想解决它真的是千辛万苦；第二，windows一向以来都是以严谨著称，他的技术框架基本上都是以大型、封装、复杂的为主。windows的开发文档读起来心有余悸！
@@ -74,6 +75,8 @@
 ### QT开发
 * [LyoGo围棋游戏大厅](https://github.com/AndrewChien/LyoGo)
 
+
+---
 ## JAVA
 
 &emsp;&emsp;java，这门中国目前使用最多的语言，的确优秀！并不是语法优秀、并不是本身超越时空，而是它的生态圈太好了！当所有人都围着它转的时候，他不想耀眼都难！（想想苦命的.net，要是微软当初在c#刚创建的时候就开源，哪有今天java的事。。。）
