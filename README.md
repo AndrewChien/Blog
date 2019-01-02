@@ -45,6 +45,7 @@
 * [C#写的运行asp.net的小型web服务器，替代iis的那种](https://github.com/AndrewChien/LyoServer)
 
 ### 商城及后台管理
+本来我是不做商城及网站后台类的管理软件，NFine缘起于QQ群及现实中的一位朋友：[飞天](https://github.com/Feaskye)以及他的商用后台管理框架[SkyMallCore](https://github.com/Feaskye/SkyMallCore)
 * [dotnet core+mysql改良版的NFine框架]()
 
 ### P/Invoke技术
@@ -75,7 +76,7 @@
 
 ## JAVA
 
-&emsp;&emsp;java，这门中国目前使用最多的语言，的确优秀！并不是语法优秀、并不是本身超越时空，而是它的生态圈太好了！档所有人都围着它转的时候，他不想耀眼都难！（想想苦命的.net，要是微软当初在c#刚创建的时候就开源，哪有今天java的事。。。）
+&emsp;&emsp;java，这门中国目前使用最多的语言，的确优秀！并不是语法优秀、并不是本身超越时空，而是它的生态圈太好了！当所有人都围着它转的时候，他不想耀眼都难！（想想苦命的.net，要是微软当初在c#刚创建的时候就开源，哪有今天java的事。。。）
 
 &emsp;&emsp;java的语法，又丑又难用。使用过c#的人，真的不愿意再使用这个语法。但很多时候并不是什么好用就能决定它的地位的，而是使用者的数量决定的。
 
