@@ -29,7 +29,7 @@
 
 ### Python蜘蛛
 * [python学习经典例子（涵盖bs、lxml、re、pool等各种基本蜘蛛技术）](https://github.com/AndrewChien/PythonSpiders)
-* [用selenium+ocr对某网盘下载网站进行有验证码登录和自动连续下载文件](https://github.com/AndrewChien/Blog/issues/1)
+* [对某网盘下载网站进行验证码OCR自动识别并登录和破解VIP下载（广泛适用）](https://github.com/AndrewChien/Blog/issues/1)
 
 ### PyQt开发
 
@@ -74,7 +74,6 @@
 
 ### QT开发
 * [LyoGo围棋游戏大厅](https://github.com/AndrewChien/LyoGo)
-
 
 ---
 ## JAVA
