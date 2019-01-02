@@ -43,7 +43,15 @@
 
 &emsp;&emsp;在当今JDK1.8以上版本需要收费以后，java使用者要么停滞在1.8版本，要么逼着你使用openjdk，openjdk创建至今为时不短，但为什么没能像oracle jdk这么使用普遍，大家心里有数，无疑是不好用、有bug、维护困难等等开源软件的通病。另外，java是使用GPL这个有传染性的开源许可的，其对企业的适用性明显比不上MIT/Apache2协议（如dotnet core使用的是这种，这也给了dotnet core一个挽回开发者和公司使用者的机会，参考张善友的文章 [[年末展望：Oracle 对 JDK收费和.NET Core 给我们的机遇](https://www.cnblogs.com/shanyou/p/10198757.html) ，这是题外话）。
 
+
+
+# 框架与工具
+
+&emsp;&emsp;一些平时使用到的架构、框架及工具的使用易出错的地方等记录。
+
+
+
 # 杂谈
 
-
+&emsp;&emsp;扯淡。
 
