@@ -13,3 +13,7 @@
 
 &emsp;&emsp;我准备用Python来做蜘蛛和图像处理类工具，当然还有日常可以用到的其它部分。
 
+* [Python](https://github.com/AndrewChien/Blog/projects/1)
+* [.NET](https://github.com/AndrewChien/Blog/projects/1)
+* [C++](https://github.com/AndrewChien/Blog/projects/1)
+* [JAVA](https://github.com/AndrewChien/Blog/projects/1)
