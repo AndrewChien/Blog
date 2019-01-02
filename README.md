@@ -12,6 +12,7 @@
 - [.NET](https://github.com/AndrewChien/Blog/projects/2)
 - [C++](https://github.com/AndrewChien/Blog/projects/3)
 - [JAVA](https://github.com/AndrewChien/Blog/projects/4)
+- [框架与工具](https://github.com/AndrewChien/Blog/projects/6)
 - [杂谈](https://github.com/AndrewChien/Blog/projects/5)
 
 ------
@@ -40,7 +41,7 @@
 
 &emsp;&emsp;java的语法，又丑又难用。使用过c#的人，真的不愿意再使用这个语法。但很多时候并不是什么好用就能决定它的地位的，而是使用者的数量决定的。
 
-&emsp;&emsp;在当今JDK1.8以上版本需要收费以后，java使用者要么停滞在1.8版本，要么逼着你使用openjdk，openjdk创建至今为时不短，但为什么没能像oracle jdk这么使用普遍，大家心里有数，无疑是不好用、有bug、维护困难等等开源软件的通病。另外，java是使用GPL这个有传染性的开源许可的，其对企业的适用性明显比不上MIT/Apache2协议（如dotnet core使用的是这种，这也给了dotnet core一个挽回开发者和公司使用者的机会，参考张善友的文章[年末展望：Oracle 对 JDK收费和.NET Core 给我们的机遇](https://www.cnblogs.com/shanyou/p/10198757.html)，这是题外话）。
+&emsp;&emsp;在当今JDK1.8以上版本需要收费以后，java使用者要么停滞在1.8版本，要么逼着你使用openjdk，openjdk创建至今为时不短，但为什么没能像oracle jdk这么使用普遍，大家心里有数，无疑是不好用、有bug、维护困难等等开源软件的通病。另外，java是使用GPL这个有传染性的开源许可的，其对企业的适用性明显比不上MIT/Apache2协议（如dotnet core使用的是这种，这也给了dotnet core一个挽回开发者和公司使用者的机会，参考张善友的文章 [[年末展望：Oracle 对 JDK收费和.NET Core 给我们的机遇](https://www.cnblogs.com/shanyou/p/10198757.html) ，这是题外话）。
 
 # 杂谈
 
