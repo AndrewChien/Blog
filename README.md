@@ -6,6 +6,12 @@
 
 &emsp;&emsp;所以以后就在GitHub写博客了，本博客以技术博客为主。。</br>
 
+&emsp;&emsp;以下为博客目录：
+* [Python](https://github.com/AndrewChien/Blog/projects/1)
+* [.NET](https://github.com/AndrewChien/Blog/projects/2)
+* [C++](https://github.com/AndrewChien/Blog/projects/3)
+* [JAVA](https://github.com/AndrewChien/Blog/projects/4)
+* [杂谈](https://github.com/AndrewChien/Blog/projects/5)
 ---
 # 技术类
 ## Python
@@ -13,7 +19,3 @@
 
 &emsp;&emsp;我准备用Python来做蜘蛛和图像处理类工具，当然还有日常可以用到的其它部分。
 
-* [Python](https://github.com/AndrewChien/Blog/projects/1)
-* [.NET](https://github.com/AndrewChien/Blog/projects/1)
-* [C++](https://github.com/AndrewChien/Blog/projects/1)
-* [JAVA](https://github.com/AndrewChien/Blog/projects/1)
