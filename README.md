@@ -25,6 +25,10 @@
 
 &emsp;&emsp;我准备用Python来做蜘蛛和图像处理类工具，当然还有日常可以用到的其它部分。
 
+* [python学习经典例子（涵盖bs、lxml、re、pool等各种基本蜘蛛技术）](https://github.com/AndrewChien/PythonSpiders)
+* [用selenium+ocr对某网盘下载网站进行有验证码登录和自动连续下载文件](https://github.com/AndrewChien/Blog/issues/1)
+
+
 ## .NET
 
 &emsp;&emsp;emm，我是做C#起步的，虽然大学入门语言是c、c++，大学也学过java，但第一份工作用的是c#。怎么说呢？两个字，感激。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。
