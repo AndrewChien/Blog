@@ -34,7 +34,7 @@
 ### PyQt开发
 
 ---
-## .NET
+## .NET（C#）
 
 &emsp;&emsp;emm，虽然大学入门语言是c、c++，大学也学过java，但我做C#的时间最长。从winform到wpf；从webform到mvc；从win、wince平台到linux平台；再到如今的dotnet core，大范围的技术基本被涉及一个遍。
 
