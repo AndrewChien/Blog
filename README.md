@@ -36,7 +36,9 @@
 ---
 ## .NET
 
-&emsp;&emsp;emm，虽然大学入门语言是c、c++，大学也学过java，但我做C#的时间最长。怎么说呢？两个字，感激。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。
+&emsp;&emsp;emm，虽然大学入门语言是c、c++，大学也学过java，但我做C#的时间最长。从winform到wpf；从webform到mvc；从win、wince平台到linux平台；再到如今的dotnet core，大范围的技术基本被涉及一个遍。
+
+&emsp;&emsp;这几年.net在国内形势不是很好，尤其是在杭州这个java大本营，但我对与C#还是抱着感激的态度。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。即将到来的dotnet core3.0包含了winform和wpf模块，可能会预示着core将会完全替代dotnet framework技术。dotnet即将进入一个不一样的时代。
 
 ### dotnet core
 * [用蜘蛛抓取的资源组建的一个XX网站（你懂得）](https://github.com/AndrewChien/EvilLyo)
@@ -68,6 +70,8 @@
 &emsp;&emsp;c++，传说中高级语言里面最难的。它难不是难在语法，而是难在想熟练掌握它，你必须首先对你的操作系统要相当的熟悉！在windows大行其道的时候，人们学MFC真的是苦！第一，windows不是开源的，遇到了一些疑难杂症想解决它真的是千辛万苦；第二，windows一向以来都是以严谨著称，他的技术框架基本上都是以大型、封装、复杂的为主。windows的开发文档读起来心有余悸！
 
 &emsp;&emsp;但是，这里我还是要说一句，没有掌握C++的程序员，都不是真正的程序员！
+
+&emsp;&emsp;再说说我自己。这些年来，我在工作中做过的C++项目都是些零零散散的，我也没有专门去应聘过专门C++开发岗位，这是个缺憾但我并不感觉遗憾。一来做一个明知很繁琐却又不得不做的事让人抓狂，二来平时工作中接触到的机会也不少（比如近期给第三方做接口时，遇到一些对性能要求高或者Pinvoke不能解决的时候）。我是抱着一个追求技术+娱乐之心来做C++。
 
 ### OpenCV
 * [人脸识别及运动检测](https://github.com/AndrewChien/FaceAndMoveDetect)
