@@ -36,7 +36,7 @@
 ---
 ## .NET
 
-&emsp;&emsp;emm，我是做C#起步的，虽然大学入门语言是c、c++，大学也学过java，但第一份工作用的是c#。怎么说呢？两个字，感激。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。
+&emsp;&emsp;emm，虽然大学入门语言是c、c++，大学也学过java，但我做C#的时间最长。怎么说呢？两个字，感激。且今天dotnet core的出现真的是让我大开眼界，dotnet core的未来无疑将是无比灿烂和辉煌的。
 
 ### dotnet core
 * [用蜘蛛抓取的资源组建的一个XX网站（你懂得）](https://github.com/AndrewChien/EvilLyo)
