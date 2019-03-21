@@ -14,6 +14,8 @@
 - [.NET](https://github.com/AndrewChien/Blog/projects/2)
 - [C++](https://github.com/AndrewChien/Blog/projects/3)
 - [JAVA](https://github.com/AndrewChien/Blog/projects/4)
+- [Go](https://github.com/AndrewChien/Blog/projects/7)
+- [Assembly](https://github.com/AndrewChien/Blog/projects/8)
 - [框架与工具](https://github.com/AndrewChien/Blog/projects/6)
 - [杂谈](https://github.com/AndrewChien/Blog/projects/5)
 
@@ -92,6 +94,17 @@
 * [jna示例](https://github.com/AndrewChien/JavaInvokeDemos)
 * [复杂情况下的jna调用技术](https://github.com/AndrewChien/ComplexJnaInvoke)
 
+---
+## Go
+
+&emsp;&emsp;Golang是最近在学的一门语言，主要对它的高运行效率比较感兴趣。Go目前来说还是雷声大雨点小，推出至今已有七八年，呼声很高，但是真正能使用这门语言的太少了。总体来说，GO相对于其他语言，优势并不是特别突出，特别是C和C++来说。Go目前只有大公司才敢用。
+
+---
+## Assembly
+
+&emsp;&emsp;汇编语言，用来玩的。C/C++可以内嵌汇编，32位汇编至今还是有用武之地的。
+
+---
 ## 框架与工具
 
 &emsp;&emsp;一些平时使用到的架构、框架及工具的使用易出错的地方等记录。
@@ -99,4 +112,8 @@
 ---
 # 杂谈
 
-&emsp;&emsp;扯淡。
+&emsp;&emsp;我的兴趣范围太广，喜欢把编程当一门爱好来做，过随心所欲的技术生活。
+&emsp;&emsp;我近远期的学习路线和计划有：
+&emsp;&emsp;1、java及dotnet core后台前端网站——>高并发——>分布式——>微服务化——>python数据采集——>大数据处理——>大数据存储——>数据展示——>机器学习；
+&emsp;&emsp;2、qt客户端——>pyqt客户端——>flask服务端；
+&emsp;&emsp;3、操作系统——>类C编译器及语言——>类java虚拟机及语言——>嵌入式——>cpu等硬件；
