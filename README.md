@@ -23,5 +23,7 @@
 
 ---
 # 记录一个把开源资源、群友免费分享资源和论坛免费资源打包挂云盘卖钱的人
+&emsp;&emsp;此人在论坛收集免费资源，打包后在各种渠道放下载链接，号称免费下载，下载打开后会发现压缩包加密，里面各种提示加QQ获取密码，加上好友后如下截图所示。
+&emsp;&emsp;部分中国人什么时候能把小聪明放在正道上？
 <img src='https://github.com/AndrewChien/Blog/blob/master/source/wechat_2025-09-14_115930_491.png' align='left'/>
 
