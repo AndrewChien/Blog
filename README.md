@@ -33,8 +33,9 @@
 
 &emsp;&emsp;我创建了一个热血传奇微信群，并且开了一个群服，欢迎加入技术交流或测试群服。加好友请备注来源于github。</br>
 
-<img src='https://github.com/AndrewChien/Blog/blob/master/source/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924082850_143_187.jpg' align='left'/>
-</br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924082850_143_187.jpg' align='left'/></br>
+
+&emsp;&emsp;</br>
 
 ---
 # 记录一个把开源资源、群友免费分享资源和论坛免费资源打包挂云盘卖钱的人
