@@ -33,7 +33,7 @@
 
 &emsp;&emsp;我创建了一个热血传奇微信群，并且开了一个群服，欢迎加入技术交流或测试群服。加好友请备注来源于github。</br>
 
-<img src='https://github.com/AndrewChien/Blog/blob/master/source/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924082850_143_187.jpg' align='left'/></br>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250924082850_143_187.jpg'/></br>
 
 &emsp;&emsp;</br>
 
@@ -41,5 +41,5 @@
 # 记录一个把开源资源、群友免费分享资源和论坛免费资源打包挂云盘卖钱的人
 &emsp;&emsp;此人在论坛收集免费资源，打包后在各种渠道放下载链接，号称免费下载，下载打开后会发现压缩包加密，里面各种提示加QQ获取密码，加上好友后如下截图所示。</br>
 &emsp;&emsp;部分中国人什么时候能把小聪明放在正道上？</br>
-<img src='https://github.com/AndrewChien/Blog/blob/master/source/wechat_2025-09-14_115930_491.png' align='left'/>
+<img src='https://github.com/AndrewChien/Blog/blob/master/source/wechat_2025-09-14_115930_491.png'/>
 
